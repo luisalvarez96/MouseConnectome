@@ -1,4 +1,4 @@
-Code developed by David Phillips PhD: dphillips1@unm.edu
+#Code developed by David Phillips PhD: dphillips1@unm.edu
 
 import networkx as nx
 import gurobipy as gp
