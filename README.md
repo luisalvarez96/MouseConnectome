@@ -18,5 +18,5 @@ network output from the symmetry repair algorithm
 **repair_direct_ar_prohibit.py** corresponds to the symmetry repair algorithm, utilizing gurobi to perform an optimization algorithm 
 to satisfy that all nodes are balanced colored according to the given colors. _workpath_ and _outpath_ need to be specified, as well
 as the directory list, _dirlist_, within the _workpath_ where the inputs of the codes are provided. The code takes two input files:
-1) one for the network to be repaired, provided as a list of edges: source\_node, target\_node and 2) a list of the nodes with 
-indicating their respective colors, i.e. the synchronized cluster to which they belong. 
+1) one for the network to be repaired, provided as a list of edges: source\_node, target\_node and 
+2) a list of the nodes with indicating their respective colors, i.e. the synchronized cluster to which they belong. 
